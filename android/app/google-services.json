@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397015810207",
+    "firebase_url": "https://prm-todo-app.firebaseio.com",
+    "project_id": "prm-todo-app",
+    "storage_bucket": "prm-todo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397015810207:android:6d171943ce7f6733d0a2aa",
+        "android_client_info": {
+          "package_name": "com.example.TodoApp_Seminar_PRM"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397015810207-pbnd40ir9qvm9n9klapnluf2k3vbpalp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYlyIguYvIZPZ5ZEEDIFR42mxWhh_OsaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397015810207-pbnd40ir9qvm9n9klapnluf2k3vbpalp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
